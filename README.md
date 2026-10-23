@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm John Thomas Josephus 👋
 
-<!--
-**hosukay/hosukay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering student at REVA University, interested in software engineering, AI/ML, and cybersecurity.
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE | Expected graduation: 2028
+- 📊 CGPA: 8.49/10
+- 💻 Interested in building practical software and AI systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### WinFix
+AI-assisted Windows diagnostics project. My team achieved a Top 10 finish at the Inferentia Hackathon at PES University.
+
+[View repository](https://github.com/goden-hero/WinFix)
+
+### AgentGuard
+Team project focused on continuous authorization for autonomous agents. My contribution was in the MCP gateway workstream.
+
+[View repository](https://github.com/jaya-iyapps/AgentGuard)
+
+### Amazon Entity Resolution
+Business entity resolution project involving Python data preprocessing, normalization, and profiling.
+
+[View repository](https://github.com/jaya-iyapps/amazon-ml-entity-resolution)
+
+## Technical Skills
+
+Python · C · JavaScript · TypeScript · React · SQL · Git · AI/ML
+
+## Certifications & Achievements
+
+- Hackurity 2026 — REVA University
+- Inferentia Hackathon — PES University, Top 10 with WinFix
+- Threat Prism Cybersecurity — 1Stop.ai
